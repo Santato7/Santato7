@@ -16,7 +16,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<div align="right" style="border-style: solid;border-color: red;"> 
+<div align="right"> 
   <a href="https://www.linkedin.com/in/lucassantato/" target="_blank"><img src="https://img.icons8.com/fluency/256/linkedin-circled.png" width="40px"></a>
   <a href = "mailto:santatolucas7@gmail.com"><img src="https://img.icons8.com/color/256/gmail.png" width="40px"></a>
 </div>
