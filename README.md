@@ -7,14 +7,16 @@
   
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santato7&layout=compact&hide_border=true&title_color=DA1313&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
+
 ##
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<div align="right"> 
-  <a href="https://www.linkedin.com/in/cinthiacunha/" target="_blank"><img src="https://img.icons8.com/fluency/256/linkedin-circled.png" width="40px"></a>
+<div align="right" style="border-style:solid"> 
+  <a href="https://www.linkedin.com/in/lucassantato/" target="_blank"><img src="https://img.icons8.com/fluency/256/linkedin-circled.png" width="40px"></a>
   <a href = "mailto:santatolucas7@gmail.com"><img src="https://img.icons8.com/color/256/gmail.png" width="40px"></a>
 </div>
