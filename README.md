@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santato7&show_icons=true&count_private=true&hide_border=true&border_color=ffffff&title_color=DA1313&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Santato's github stats"/> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santato7&layout=compact&hide_border=true&title_color=DA1313&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="41%" height="270px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santato7&layout=compact&hide_border=true&title_color=DA1313&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 ##
