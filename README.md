@@ -12,12 +12,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs" />
+    <img src="https://skillicons.dev/icons?i=ruby,py,js,ts,nodejs" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,linux,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,windows" />
   </a>
 </p>
 
